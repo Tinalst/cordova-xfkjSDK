@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-xunfeiListenSpeaking",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-xunfeiListenSpeaking",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "cc",
+  "license": "ISC",
+  "description": ""
+}

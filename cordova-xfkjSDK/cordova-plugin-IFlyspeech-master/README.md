@@ -56,7 +56,7 @@
 Ionic start kdxf blank
 cd kdxf
 ```
-### 为cordova-plugin-IFlyspeech-master创建package.json配置文件
+### <div #jump>为cordova-plugin-IFlyspeech-master创建package.json配置文件<div>
 安装plugma
 ```
 npm  install  -g plugman

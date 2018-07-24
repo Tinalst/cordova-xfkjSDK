@@ -5,7 +5,7 @@
 ### 获取cordova-plugin-IFlyspeech-master.zip
 
 `这个插件是由cordova结合科大讯飞语音SDK编写的插件，由官方提供，非本人原创`
-> 下载链接： [cordova-plugin-IFlyspeech-master.zip](https://github.com/StellaLim/cordova-xfkjSDK/tree/master/cordova-xfkjSDK/cordova-plugin-IFlyspeech-master)
+> 下载界面链接： [cordova-plugin-IFlyspeech-master.zip](https://github.com/StellaLim/cordova-xfkjSDK)
 >> 这个链接下文件包含了package.json文件，是本人做过了处理的，原始官方文件不包含，所以下载下来后可以选择性删除，如果不删除下面的<a href="#jump" target="_self">步骤创建package.json文件步骤</a>请忽略
 解压后的目录如下：
 ```
